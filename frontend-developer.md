@@ -3,7 +3,7 @@
 **About me:** I am 24 years old, married, frontend developer experienced in web and mobile technologies. Computer technician and Bachelor of Systems and Digital Media at Federal University of Ceará.
 
 ## Work experience
-### Fullstack developer and Tech leader at Sotech Soluções e Tecnologia - Jan/2018 - now
+### Fullstack developer and Tech leader at Sotech Soluções e Tecnologia - Jan/2018 - Nov/2018
 In this company I led a small team of 3 developers. Together we develop and fix issues of a management software of hospitals and a tool of basic healthcare. The applications are made using HTML, CSS, JavaScript, Angular 5, Ionic framework and Java for native Android development.
 
 ### Fullstack developer at Alscience engineering - Aug/2016 - Jan/2017 and Sep/2017 - Dec/2017
