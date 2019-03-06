@@ -1,8 +1,11 @@
 # Messias Lima da Silva Junior
 
-**About me:** I am 24 years old, married, frontend developer experienced in web and mobile technologies. Computer technician and Bachelor of Systems and Digital Media at Federal University of Ceará.
+**About me:** I am 24 years old, married, frontend developer experienced in web and mobile technologies. Computer technician and Bachelor of Systems and Digital Media at Federal University of Ceará. Living in Lisbon since November of 2018.
 
 ## Work experience
+### IT Consultant at Aubay Portugal - Dec/2018 until nowadays
+Aubay is a human resources company focused on IT with *Outsoursing* and *Nearshore* projects.
+
 ### Fullstack developer and Tech leader at Sotech Soluções e Tecnologia - Jan/2018 - Nov/2018
 In this company I led a small team of 3 developers. Together we develop and fix issues of a management software of hospitals and a tool of basic healthcare. The applications are made using HTML, CSS, JavaScript, Angular 5, Ionic framework and Java for native Android development.
 
