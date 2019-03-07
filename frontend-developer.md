@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin)](https://www.linkedin.com/in/messias-lima/)
+
 # Messias Lima da Silva Junior
 
 **About me:** I am 24 years old, married, frontend developer experienced in web and mobile technologies. Computer technician and Bachelor of Systems and Digital Media at Federal University of Ceará. Living in Lisbon since November of 2018.
