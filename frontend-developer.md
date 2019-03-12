@@ -1,4 +1,5 @@
-[![](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin)](https://www.linkedin.com/in/messias-lima/)
+[![](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin)](https://www.linkedin.com/in/messias-lima/) 
+[![](https://img.shields.io/badge/Email-lightgrey.svg?logo=gmail)](mailto:messiaslima.03@gmail.com)
 
 # Messias Lima da Silva Junior
 
