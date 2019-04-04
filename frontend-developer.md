@@ -5,7 +5,7 @@
 
 # Messias Lima da Silva Junior
 
-**About me:** I am 24 years old, married, frontend developer experienced in web and mobile technologies. Computer technician and Bachelor of Systems and Digital Media at Federal University of Ceará. Living in Lisbon since November of 2018.
+**About me:** I am 24 years old, married, software developer experienced in web and mobile technologies. Computer technician and Bachelor of Systems and Digital Media at Federal University of Ceará. Living in Lisbon since November of 2018.
 
 ## Work experience
 ### IT Consultant at Aubay Portugal - Dec/2018 until nowadays
