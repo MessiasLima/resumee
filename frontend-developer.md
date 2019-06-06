@@ -13,10 +13,10 @@ Aubay is a human resources company focused on IT with *Outsoursing* and *Nearsho
 - ***Android developer at SIBS Processos:*** I am development team member of the most famous money transfer app in Portugal. The app was build using Kotlin, Dagger 2, Androidx, Material Design Components and tests with Expresso
 
 ### Fullstack developer and Tech leader at Sotech Soluções e Tecnologia - Jan/2018 - Nov/2018
-In this company I led a small team of 3 developers. Together we develop and fix issues of a management software of hospitals and a tool of basic healthcare. The applications are made using HTML, CSS, JavaScript, Angular 5, Ionic framework and Java for native Android development.
+In this company I led a small team of 3 developers. Together we develop and fix issues of a management software of hospitals and a tool of basic healthcare. The applications are made using HTML, CSS, JavaScript, Angular 5, Ionic framework and Java for native Android development; Spring Boot, JAX-RS in backend.
 
 ### Fullstack developer at Alscience engineering - Aug/2016 - Jan/2017 and Sep/2017 - Dec/2017
-In Alscience I was part of a team that developed Sismogran, a software for indoor environment monitoring (temperature, humidity, etc). We also developed a software for monitoring vital signs of workers in dangerous places using smartwatches. The systems made in Java(Spring Framework), JavaScript (AngularJS and Angular 2) and mobile applications with Ionic framework and Java.
+In Alscience I was part of a team that developed Sismogran, a software for indoor environment monitoring (temperature, humidity, etc). We also developed a software for monitoring vital signs of workers in dangerous places using smartwatches. The systems made in Java(Spring Boot), JavaScript (AngularJS and Angular 2) and mobile applications with Ionic framework and Java.
 
 ### Fullstack developer at Adtalem Educacional do Brasil - Jan/2017 - Sep/2017
 I was part of a team assigned to fix issues of Integrees.net, an Web application for students of Adtalem group colleges in Brazil. In this project, we use the following technologies: Spring Boot, Micro-service architecture, Project Reactor, Ionic framework, AngularJS, SASS, GULP, AWS technologies (EC2, RDS, S3, DynamoDB, SQS, etc...).
