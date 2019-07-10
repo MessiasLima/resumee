@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin)](https://www.linkedin.com/in/messias-lima/) 
 [![](https://img.shields.io/badge/Email-blue.svg?logo=gmail)](mailto:messiaslima.03@gmail.com)
-[![](https://img.shields.io/badge/Telegram-blue.svg?logo=telegram)](https://t.me/TheOldBalrog)
+[![](https://img.shields.io/badge/Telegram-blue.svg?logo=telegram)](https://t.me/messias_junior)
 [![](https://img.shields.io/badge/Github-grey.svg?logo=github)](https://github.com/MessiasLima)
 
 # Messias Lima da Silva Junior
@@ -10,7 +10,7 @@
 ## Work experience
 ### IT Consultant at Aubay Portugal - Dec/2018 until nowadays
 Aubay is a human resources company focused on IT with *Outsoursing* and *Nearshore* projects.
-- ***Android developer at SIBS Processos:*** I am development team member of the most famous money transfer app in Portugal. The app was build using Kotlin, Dagger 2, Androidx, Material Design Components and tests with Expresso
+- ***Android developer at SIBS Processos:*** I am development team member of the most famous money transfer app in Portugal. The app was build using Kotlin, Dagger 2, Androidx and Material Design Components
 
 ### Fullstack developer and Tech leader at Sotech Soluções e Tecnologia - Jan/2018 - Nov/2018
 In this company I led a small team of 3 developers. Together we develop and fix issues of a management software of hospitals and a tool of basic healthcare. The applications are made using HTML, CSS, JavaScript, Angular 5, Ionic framework and Java for native Android development; Spring Boot, JAX-RS in backend.
