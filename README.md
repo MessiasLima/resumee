@@ -5,12 +5,17 @@
 
 # Messias Lima da Silva Junior
 
-**About me:** I am 25 years old, married, software developer experienced in web and mobile technologies. Computer technician and Bachelor of Systems and Digital Media at the Federal University of Ceará. I'm living in Lisbon since November 2018.
+**About me:** I am 25 years old, married, software developer experienced in web and mobile technologies. Computer technician and Bachelor of Systems and Digital Media at the Federal University of Ceará. I'm living in Portugal since November 2018.
 
 ## Work experience
-### IT Consultant at Aubay Portugal - Dec/2018 until nowadays
+
+### IT Consultant at Alter Solutions - Dec/2018 until nowadays
+Alter Solutions is a consunting company of IT field. I was allocated in the project:
+- ***Java Fullstack Developer at Volkswagen AG:*** This project is an internal application used for dealers and importers of Volkswagen Group. The project was built using JSF, Spring Boot, MySQL, Tomcat and uses tools like Docker containers and Kibana.
+
+### IT Consultant at Aubay Portugal - Dec/2018 - Dec/2019
 Aubay is a human resources company focused on IT with *Outsourcing* and *Nearshore* projects.
-- ***Android developer at SIBS Processos:*** I am a development team member of the most famous money transfer app in Portugal. The app was built using Kotlin, Firebase, Androidx, Facebook Analytics, Lottie and Material Design Components
+- ***Android developer at SIBS Processos:*** I was member of the development team member of the most famous money transfer app in Portugal. The app was built using Kotlin, Firebase, Androidx, Facebook Analytics, Lottie and Material Design Components
 
 ### Fullstack developer and Tech leader at Sotech Soluções e Tecnologia - Jan/2018 - Nov/2018
 In this company, I led a small team of 3 developers. Together we develop and fix issues of a management software of hospitals and a tool of basic healthcare. The applications are made using HTML, CSS, JavaScript, Angular 5, Ionic framework and Java for native Android development; Spring Boot and JAX-RS in the backend.
